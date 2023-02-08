@@ -10,7 +10,7 @@ ____
 6. 第四阶段：使用3D-ResUNet改进版在切块层面上细分割候选结节
 ```
 2.整体框架设计图：
-![image](https://github.com/ilikezzx/Multistage-detection-and-segmentation-of-pulmonary-nodules/blob/master/image/overall chart.tif)
+![image](https://github.com/ilikezzx/Multistage-detection-and-segmentation-of-pulmonary-nodules/blob/master/image/overall.tif)
 
 3.本算法使用窗体进行可视化，文件夹简介如下：
 ```
